@@ -63,5 +63,5 @@ $ ./seek.py -f sample.bytes --hex 525f4f4b
 Below are the prompts I used for the project. I'm still new to ChatGPT, so it was alot of learning to how to describe what I wanted. The prompts are honestly really large so i'm going to link in sepearte files for this. See the markdown files linked:
 
   * [Command Line Arguments](prompts/cliarguments.md)
-  * [Class Creation](prompts/class.md)
-  * [Setup Script](prompts/setupscript.md)
+  * [Class Creation](prompts/createclass.md)
+  * [Setup Script](prompts/installation.md)
