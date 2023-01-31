@@ -1,0 +1,11 @@
+--2023-01-31 17:21:27--  https://raw.githubusercontent.com/jimmygiv/seek/main/LICENSE
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.108.133, 185.199.109.133, 185.199.110.133, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.108.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 35149 (34K) [text/plain]
+Saving to: ‘LICENSE.1’
+
+     0K .......... .......... .......... ....                 100%  115M=0s
+
+2023-01-31 17:21:27 (115 MB/s) - ‘LICENSE.1’ saved [35149/35149]
+
